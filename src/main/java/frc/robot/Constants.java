@@ -42,10 +42,11 @@ public final class Constants {
     public static final boolean kFrontRightTurningEncoderReversed = false;
     public static final boolean kRearRightTurningEncoderReversed = true;
 
-    public static final int[] kFrontLeftDriveEncoderPorts = new int[] { 8, 9 };
-    public static final int[] kRearLeftDriveEncoderPorts = new int[] { 10, 11 };
-    public static final int[] kFrontRightDriveEncoderPorts = new int[] { 12, 13 };
-    public static final int[] kRearRightDriveEncoderPorts = new int[] { 14, 15 };
+    // public static final int[] kFrontLeftDriveEncoderPorts = new int[] { 8, 9 };
+    // public static final int[] kRearLeftDriveEncoderPorts = new int[] { 10, 11 };
+    // public static final int[] kFrontRightDriveEncoderPorts = new int[] { 12, 13
+    // };
+    // public static final int[] kRearRightDriveEncoderPorts = new int[] { 14, 15 };
 
     public static final boolean kFrontLeftDriveEncoderReversed = false;
     public static final boolean kRearLeftDriveEncoderReversed = true;

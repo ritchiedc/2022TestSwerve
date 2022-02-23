@@ -18,7 +18,7 @@ public class TurningEncoder  implements Sendable {
   private String m_prefName;
   private boolean m_reverse = false;
 
-  public TurningEncoder (int channel) {
+  public TurningEncoder(int channel) {
     this(new AnalogInput(channel));
   }
 
